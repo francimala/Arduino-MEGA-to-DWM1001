@@ -12,6 +12,7 @@ Remark: be careful with the connection: DWM1001 needs 3.3V, so create a voltage 
 - 2 DWM1001-dev modules
 
 *Procedure*
+
 You can find all the decawave documentation here: https://www.decawave.com/product-documentation/
 
 Following the firmware user guide set the network up so that one module is an active tag and the other one is an active anchor (initiator). Before doing this, make sure to flash the base firmware version on both modules (page 15 and 16 of this guide).
